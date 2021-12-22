@@ -3,7 +3,8 @@
     <application>
         <activity
                 android:name="com.razorpay.CheckoutActivity"
-                android:label="Razorpay Checkout" >
+                android:label="Razorpay Checkout"
+                android:exported="true">
         </activity>
     </application>
 </manifest>
